@@ -24,5 +24,7 @@ package com.dyr.test;
 public class HelloGit {
 	public static void main(String[] args) {
 		System.out.println("Hello Git!!!!");
+		System.out.println("增加一条语句了哦！！！");
+		System.out.println("又增加了一条语句了哦！！！");
 	}
 }
